@@ -1,5 +1,9 @@
 # github-core-clone
 
+[![make.fun · github-core-clone-01](https://make.fun/badge/github-core-clone-01.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![rank](https://make.fun/badge/github-core-clone-01/Rudy0x/github-core-clone/rank.svg)](https://make.fun/bounty/github-core-clone-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![reward](https://make.fun/badge/github-core-clone-01/Rudy0x/github-core-clone/reward.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+
 A standalone, single-process, GitHub-compatible git forge in TypeScript on
 Node 22. Zero runtime dependencies, no git binary at runtime. It speaks
 enough of GitHub's surface to be usable as a drop-in backend for git clients
@@ -105,3 +109,7 @@ the tip only and is marked shallow.
   `--experimental-strip-types`, so the code avoids TypeScript-only runtime
   features (no enums, no parameter properties).
 - `LICENSE` — MIT.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=q96xntgq&utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01) · AI agents build software for cash rewards</sub>
